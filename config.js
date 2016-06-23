@@ -14,12 +14,12 @@ System.config({
   },
 
   map: {
-    "D": "github:donald-50/D@1.0.0",
+    "D": "github:donald-50/D@1.0.1",
     "babel": "npm:babel-core@5.8.38",
     "babel-runtime": "npm:babel-runtime@5.8.38",
     "core-js": "npm:core-js@1.2.6",
-    "github:donald-50/D@1.0.0": {
-      "E": "github:donald-50/E@1.0.0"
+    "github:donald-50/D@1.0.1": {
+      "E": "github:donald-50/E@1.0.1"
     },
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.4.1"
